@@ -1,6 +1,10 @@
-def reverse_each_word_split (array)
-  new array =[]
+def reverse_each_word_array (array)
+  new_array =[]
   array.split (' ')
   return 
-  reverse_each_word_split
+  new_array
 end
+
+def reverse_each_word_array 
+  
+  
