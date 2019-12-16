@@ -1,11 +1,13 @@
-def reverse_each_word (array)
+def reverse_each_word (sentence)
   new_array =[]
-  array.split (' ')
+  i = 0 
+  while <sentence.lenght do
+  sentence.split (' ')
+  i +=1 
   return 
   new_array
 end
 
-def reverse_each_word_array 
   
   
   
