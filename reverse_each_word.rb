@@ -5,6 +5,6 @@ def reverse_each_word_array (array)
   new_array
 end
 
-def reverse_each_word_array 
+# def reverse_each_word_array 
   
   
